@@ -1,0 +1,25 @@
+{
+  "name": "socialiseworld",
+  "version": "1.0.0",
+  "description": "a social network api",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sehaj97/socialiseworld.git"
+  },
+  "author": "sehajpreet singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sehaj97/socialiseworld/issues"
+  },
+  "homepage": "https://github.com/sehaj97/socialiseworld#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.15"
+  }
+}

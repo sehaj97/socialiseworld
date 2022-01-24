@@ -1,6 +1,4 @@
-# socialiseworld
-
-## Social Network API
+# socialiseworld - a Social Network API
 
 ### Description
 
