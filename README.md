@@ -4,6 +4,24 @@
 
 *An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.*
 
+# Walkthrough videos
+
+Video explaining get all users, get one user, update user, delete user and create user 
+
+[Click here to view](https://drive.google.com/file/d/1vsUq_DmurTNaDF0To6DI17FeRHqIc6r3/view?usp=sharing)
+
+Video explaining add and remove friends
+
+[Click here to view](https://drive.google.com/file/d/1NfpvRn9VazUIiGXOH1QdANlxD0_0mDAA/view?usp=sharing)
+
+Video explaining get all thoughts, get one thought, update thought, delete thought and create thought
+
+[Click here to view](https://drive.google.com/file/d/1RAaF0xgGQKVsIyjfQm1ENwjPpejVMRC1/view?usp=sharing)
+
+Video explaining add and remove reactions
+
+[Click here to view](https://drive.google.com/file/d/1BazFC5rQdXBhj4r4qL9gtEiQZNI83Sr_/view?usp=sharing)
+
 # Test Routes
 
 Refer to Insomnia Requests folder which contain the json for all the requests. you can import it into insomnia to test all the requests.
