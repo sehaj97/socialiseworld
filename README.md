@@ -4,7 +4,11 @@
 
 *An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.*
 
-# :hammer: Tools
+# Test Routes
+
+Refer to Insomnia Requests folder which contain the json for all the requests. you can import it into insomnia to test all the requests.
+
+# Tools
 [Insomnia](https://insomnia.rest/)
 
 [Node.js](https://nodejs.org/en/)
@@ -40,7 +44,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 
-# :memo: Instructions
+# Instructions
 
 To run the application, use the following command:
 
